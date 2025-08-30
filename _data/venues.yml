@@ -1,0 +1,39 @@
+"arXiv":
+  color: "var(--pink)"
+
+"TMM":
+  color: "var(--blue)"
+
+"TIM":
+  color: "var(--blue)"
+
+"TCSVT":
+  color: "var(--blue)"
+
+"TOSN":
+  color: "var(--blue)"
+
+"TVCG":
+  color: "var(--blue)"
+
+"ESWA":
+  color: "var(--blue)"
+
+"PR":
+  color: "var(--blue)"
+
+"CVPRW":
+  color: "var(--orange)"
+
+"VRW":
+  color: "var(--orange)"
+
+"ICIP":
+  color: "var(--orange)"
+
+"ICONIP":
+  color: "var(--orange)"
+
+"TURC":
+  color: "var(--orange)"
+  
