@@ -16,19 +16,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{
-        id: 'social-email',
-        title: 'email',
-        section: 'Socials',
-        handler: () => {
-          window.open("mailto:%7A%65%78%69.%68%75-%73%79%64%6E%65%79.%65%64%75.%61%75", "_blank");
-        },
-      },{
+        },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
