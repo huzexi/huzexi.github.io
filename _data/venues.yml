@@ -36,4 +36,10 @@
 
 "TURC":
   color: "var(--orange)"
-  
+
+"SIGGRAPH Asia":
+  color: "var(--orange)"
+
+"ICASSP":
+  color: "var(--orange)"
+

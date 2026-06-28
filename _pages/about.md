@@ -15,6 +15,6 @@ social: true # includes social icons at the bottom of the page
 
 ---
 
-I am an AI software engineer at [Unleash live](https://unleashlive.com/), a pioneering Australian AI startup, where I build AI-powered systems for various exciting industries, including mining, renewable energy, traffic management, and more. I am passionate about building AI systems with the latest computer vision (CV) and natural language processing (NLP) techniques to solve real-world problems.
+I am an AI software engineer at [Unleash live](https://unleashlive.com/), a pioneering Australian AI startup, where I build AI-powered systems for various exciting industries, including mining, renewable energy, traffic management, and more. I am passionate about building AI systems with the latest computer vision (CV) and large language model (LLM) techniques to solve real-world problems.
 
 I received my Ph.D. degree at the University of Sydney in 2025. My research interests were visual tracking and image super-resolution.

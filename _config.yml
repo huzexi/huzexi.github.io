@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Zeke Zexi
 middle_name: 
 last_name: Hu
-contact_note: 📩 zexi dot hu at sydney dot edu dot au
+contact_note: 📩 Email hello at ixez dot me
 description:
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.

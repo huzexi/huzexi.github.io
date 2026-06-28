@@ -251,7 +251,19 @@
         {% endif %}
       {% endif %}
       {% if entry.website %}
-        <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
+        {% if entry.website contains 'ieeexplore.ieee.org' %}
+          <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">IEEE Xplore</a>
+        {% elsif entry.website contains 'dl.acm.org' %}
+          <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">ACM</a>
+        {% elsif entry.website contains 'link.springer.com' %}
+          <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Springer</a>
+        {% elsif entry.website contains 'sciencedirect.com' %}
+          <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">ScienceDirect</a>
+        {% elsif entry.website contains 'openaccess.thecvf.com' %}
+          <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">CVF</a>
+        {% else %}
+          <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
+        {% endif %}
       {% endif %}
     </div>
     {% if site.enable_publication_badges %}
